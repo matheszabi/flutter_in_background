@@ -18,6 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 Android app while in Foreground only
-![Android video](/screenshots/device-2022-05-31-200617.mp4?raw=true "Optional Title")
+![Android video](/screenshots/device-2022-05-31-200617.mp4 "Optional Title")
 
 Android + iOS app while moving to background and come to foreground: 80MB !
