@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+Android app while in Foreground only
+![Android video](/screenshots/device-2022-05-31-200617.mp4?raw=true "Optional Title")
+
+Android + iOS app while moving to background and come to foreground: 80MB !
